@@ -55,11 +55,7 @@ Power Automate Flows
 
 <img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/bba6fd9c-cb73-4fae-9c2a-ce71472cece0" />
 
-##🔒 Security & Data Governance Summary
-##Security Layer         Configuration Details
-##Role Assignment        Restricted to IT Helpdesk - Employee role (conflicting default roles like Basic User removed).
-##Table Permissions      Create (User level), Read (User level), Write (None), Delete (None).
-##Form Access            Read-Only view enforced across submitted records for regular employees.
+
 ---
 
 ## 🔄 Ticket Lifecycle Workflow

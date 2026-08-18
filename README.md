@@ -37,16 +37,20 @@ The system automates the entire ticket lifecycle from submission alerts and stat
 * **Resolution Notification Flow:** Automatically triggers when an IT agent changes a ticket status to **Resolved**, emailing the user with the final **Resolution Notes**.
 * **Automatic Lifecycle Archiving:** Updates resolved records to an **Inactive** state in Dataverse, cleanly moving them from active views into the **Inactive Tickets** archive.
 
+Email Notifications
 <img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/dd6b6576-f8d9-47d4-918d-48c0431d4140" />
 
 <img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d52c12d0-adff-4c34-9d99-3cfd8f683678" />
 
 <img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/d380887c-f412-4dd1-8f1d-9f3f9e7093bd" />
 
+New Ticket Page
 <img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/508d0340-e5d7-4a11-8938-6c03aae3fb0d" />
 
+Detailed Report
 <img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/06bc38b5-a990-45b0-bd3a-f73b5d0eb4bb" />
 
+Power Automate Flows
 <img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/df8a3e2e-5167-4ef8-b77d-31c6c3c4ebf2" />
 
 <img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/bba6fd9c-cb73-4fae-9c2a-ce71472cece0" />

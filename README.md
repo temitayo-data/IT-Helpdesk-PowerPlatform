@@ -1,25 +1,10 @@
-# IT-Helpdesk-PowerPlatform
-
-<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/dd6b6576-f8d9-47d4-918d-48c0431d4140" />
-
-<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d52c12d0-adff-4c34-9d99-3cfd8f683678" />
-
-<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/d380887c-f412-4dd1-8f1d-9f3f9e7093bd" />
-
-<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/508d0340-e5d7-4a11-8938-6c03aae3fb0d" />
-
-<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/06bc38b5-a990-45b0-bd3a-f73b5d0eb4bb" />
-
-<img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/df8a3e2e-5167-4ef8-b77d-31c6c3c4ebf2" />
-
-<img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/bba6fd9c-cb73-4fae-9c2a-ce71472cece0" />
 
 # 🛠️ IT Helpdesk Automated Ticketing System
 
 ## 📌 Project Overview
 The **IT Helpdesk Automated Ticketing System** is a model-driven application built on Microsoft Power Platform. It streamlines how employees submit IT requests and how IT agents manage, resolve, and track those issues.
 
-The system automates the entire ticket lifecycle from submission alerts and status updates to resolution emails and ticket archiving—while maintaining strict data security so users can only access their own submitted requests.
+The system automates the entire ticket lifecycle from submission alerts and status updates to resolution emails and ticket archiving while maintaining strict data security so users can only access their own submitted requests.
 
 ---
 
@@ -72,3 +57,18 @@ The system automates the entire ticket lifecycle from submission alerts and stat
             ├──► Status changed to "Resolved" & Resolution Notes added
             ├──► Power Automate emails Employee with Resolution Notes
             └──► Flow deactivates ticket ➔ Moves to "Inactive Tickets" View
+
+<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/dd6b6576-f8d9-47d4-918d-48c0431d4140" />
+
+<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d52c12d0-adff-4c34-9d99-3cfd8f683678" />
+
+<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/d380887c-f412-4dd1-8f1d-9f3f9e7093bd" />
+
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/508d0340-e5d7-4a11-8938-6c03aae3fb0d" />
+
+<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/06bc38b5-a990-45b0-bd3a-f73b5d0eb4bb" />
+
+<img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/df8a3e2e-5167-4ef8-b77d-31c6c3c4ebf2" />
+
+<img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/bba6fd9c-cb73-4fae-9c2a-ce71472cece0" />
+

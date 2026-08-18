@@ -19,7 +19,7 @@
 ## 📌 Project Overview
 The **IT Helpdesk Automated Ticketing System** is a model-driven application built on Microsoft Power Platform. It streamlines how employees submit IT requests and how IT agents manage, resolve, and track those issues.
 
-The system automates the entire ticket lifecycle—from submission alerts and status updates to resolution emails and ticket archiving—while maintaining strict data security so users can only access their own submitted requests.
+The system automates the entire ticket lifecycle from submission alerts and status updates to resolution emails and ticket archiving—while maintaining strict data security so users can only access their own submitted requests.
 
 ---
 
